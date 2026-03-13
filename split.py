@@ -1,4 +1,4 @@
-#this is for if your wordlist is not already in the "word", "word", etc. format
+#this is for if your wordlist is not already in the 'word', 'word', etc. format
 #and is instead formatted like word、word、etc.
 
 #input words here
